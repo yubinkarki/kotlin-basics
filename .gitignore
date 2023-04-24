@@ -14,4 +14,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Added later.
+app/build
 app/src/main/res
