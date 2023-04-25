@@ -1,4 +1,4 @@
-package com.example.kotlinbasics
+package com.example.kotlinbasics.examples
 
 import java.lang.IllegalArgumentException
 

@@ -1,4 +1,4 @@
-package com.example.kotlinbasics
+package com.example.kotlinbasics.examples
 
 // Can not be abstract or inner classes and such.
 data class User(val id: Long, val name: String)

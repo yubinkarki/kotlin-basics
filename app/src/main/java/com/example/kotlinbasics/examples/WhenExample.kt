@@ -1,4 +1,4 @@
-package com.example.kotlinbasics
+package com.example.kotlinbasics.examples
 
 fun main() {
     val name = "Yubin"
