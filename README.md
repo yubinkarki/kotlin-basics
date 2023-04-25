@@ -1,6 +1,6 @@
 # Kotlin Basics
 
-Project created using Android Studio. [Kotlin files](app/src/main/java/com/example/kotlinbasics) nested deep inside.
+Project created using Android Studio. [Kotlin files](app/src/main/java/com/example/kotlinbasics/examples) nested deep inside.
 
 [The Complete Android 12 & Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/)
 
