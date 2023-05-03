@@ -3,6 +3,12 @@ package com.example.kotlinbasics.examples
 fun main() {
     val base = Base()
     val derived = Derived()
+
+    val location: Any = "Kathmandu"
+    val safeString: String? = location as? String
+    val safeInt: Int? = location as? Int
+
+    println("$safeString, $safeInt")
 }
 
 open class Base() {
