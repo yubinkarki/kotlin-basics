@@ -11,4 +11,6 @@
     <color name="blue_button">#17876E</color>
     <color name="background_color">#C1C1C1</color>
     <color name="gray_text">#6C6C6C</color>
+    <color name="light_gray">#EFEFEF</color>
+    <color name="another_gray">#90A4AE</color>
 </resources>
