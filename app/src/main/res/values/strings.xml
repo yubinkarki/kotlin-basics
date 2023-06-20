@@ -14,5 +14,7 @@
     <string name="add">+</string>
     <string name="subtract">-</string>
     <string name="multiply">*</string>
+    <string name="dot">.</string>
+    <string name="equalsTo">=</string>
     <string name="clear">CLR</string>
 </resources>
