@@ -1,7 +1,5 @@
 package com.example.kotlinbasics.examples
 
-import java.lang.IllegalArgumentException
-
 fun main() {
     var ferrari: Car = Car()
 
